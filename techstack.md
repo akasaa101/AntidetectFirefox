@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/AntidetectFirefox](https://github.com/akasaa101/AntidetectFirefox)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|44<br/>Tools used|11/28/23 <br/>Report generated|
+|45<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -284,9 +284,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (18)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -306,6 +306,7 @@ Full tech stack [here](/techstack.md)
 |[raw-loader](https://www.npmjs.com/raw-loader)|v0.5.1|02/08/19|VektorT13 |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.5.4|02/08/19|VektorT13 |ISC|N/A|
 |[tape](https://www.npmjs.com/tape)|v0.1.5|02/08/19|VektorT13 |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|02/08/19|VektorT13 |MIT|N/A|
 |[unzip](https://www.npmjs.com/unzip)|v0.1.11|02/08/19|VektorT13 |MIT|N/A|
 |[xmldom](https://www.npmjs.com/xmldom)|v0.1.19|02/08/19|VektorT13 |MIT|[CVE-2022-39353](https://github.com/advisories/GHSA-crh6-fp67-6883) (Critical)<br/>[CVE-2022-37616](https://github.com/advisories/GHSA-9pgh-qqpf-7wqj) (Critical)<br/>[CVE-2021-21366](https://github.com/advisories/GHSA-h6q6-9hqw-rwfv) (Moderate)<br/>[CVE-2021-32796](https://github.com/advisories/GHSA-5fg8-2547-mr8q) (Moderate)|
 
@@ -314,7 +315,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[sphinx-rtd-theme](https://pypi.org/sphinx-rtd-theme)|N/A|02/08/19|VektorT13 |MIT|N/A|
+|[sphinx-rtd-theme](https://pypi.org/project/sphinx-rtd-theme)|N/A|02/08/19|VektorT13 |MIT|N/A|
 
 <br/>
 <div align='center'>
