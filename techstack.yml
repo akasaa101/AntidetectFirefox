@@ -2,7 +2,7 @@ repo_name: akasaa101/AntidetectFirefox
 report_id: 4d38168d8164905c6bbee9ef097700a2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:32:17+00:00'
+timestamp: '2024-02-29T18:55:21+00:00'
 requested_by: vektort13
 provider: github
 branch: master
@@ -619,7 +619,7 @@ tools:
     cve_url: https://github.com/advisories/GHSA-5fg8-2547-mr8q
     detected_date: Aug 22
     severity: moderate
-    first_patched: 0.7.0
+    first_patched: 
 - name: sphinx-rtd-theme
   description: Read the Docs theme for Sphinx
   package_url: https://pypi.org/project/sphinx-rtd-theme
